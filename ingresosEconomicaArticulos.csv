@@ -1,0 +1,66 @@
+﻿codigo;descripcion
+10;Impuesto sobre la Renta.
+11;Impuestos sobre el capital.
+13;Impuesto sobre las Actividades Económicas.
+16;Recargos sobre impuestos directos del Estado y de la Comunidad Autónoma.
+17;Recargos sobre impuestos directos de otros entes locales.
+18;Impuestos directos extinguidos.
+19;Otros impuestos directos.
+21;Impuestos sobre el Valor Añadido.
+22;Sobre consumos específicos.
+26;Recargos sobre impuestos indirectos del Estado y de la Comunidad Autónoma.
+27;Recargos sobre impuestos indirectos de otros entes locales.
+28;Impuestos indirectos extinguidos.
+29;Otros impuestos indirectos.
+30;Tasas por la prestación de servicios públicos básicos.
+31;Tasas por la prestación de servicios públicos de carácter social y preferente.
+32;Tasas por la realización de actividades de competencia local.
+33;Tasas por la utilización privativa o el aprovechamiento especial del dominio público local.
+34;Precios públicos.
+35;Contribuciones especiales.
+36;Ventas.
+38;Reintegros de operaciones corrientes.
+39;Otros ingresos.
+40;De la Administración General de la Entidad Local.
+41;De Organismos Autónomos de la Entidad Local.
+42;De la Administración del Estado.
+43;De la Seguridad Social.
+44;De entes públicos y sociedades mercantiles de la Entidad local.
+45;De Comunidades Autónomas.
+46;De Entidades Locales.
+47;De Empresas privadas.
+48;De familias e instituciones sin fines de lucro.
+49;Del exterior.
+50;Intereses de títulos y valores.
+51;Intereses de anticipos y préstamos concedidos.
+52;Intereses de depósitos.
+53;Dividendos y participación beneficios.
+54;Rentas de bienes inmuebles.
+55;Productos de concesiones y aprovechamientos especiales.
+59;Otros ingresos patrimoniales.
+60;De terrenos.
+61;De las demás inversiones reales.
+68;Reintegros por operaciones de capital.
+70;De la Administración General de la Entidad Local.
+71;De Organismos Autónomos de la Entidad Local.
+72;De la Administración del Estado.
+73;De la Seguridad Social.
+74;De entes públicos y sociedades mercantiles de la Entidad local.
+75;De Comunidades Autónomas.
+76;De Entidades Locales.
+77;De empresas privadas.
+78;De familias e instituciones sin fines de lucro.
+79;Del exterior.
+80;Enajenación de deuda del sector público.
+81;Enajenación de obligaciones y bonos fuera del sector público.
+82;Reintegro de préstamos y anticipos concedidos al sector público.
+83;Reintegros de préstamos de fuera del sector público.
+84;Devolución de depósitos y fianzas constituidos.
+85;Enajenación de acciones y participaciones del sector público.
+86;Enajenación de acciones y participaciones fuera del sector público.
+87;Remanente de tesorería.
+90;Emisión de Deuda Pública en euros.
+91;Préstamos recibidos en euros.
+92;Emisión de Deuda Pública en moneda distinta del euro.
+93;Préstamos recibidos en moneda distinta del euro.
+94;Depósitos y fianzas recibidos.
